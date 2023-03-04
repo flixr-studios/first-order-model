@@ -13,3 +13,4 @@ scipy==1.9.1
 torch==1.13.1
 torchvision==0.14.1
 tqdm==4.64.1
+ISR==2.2.0
